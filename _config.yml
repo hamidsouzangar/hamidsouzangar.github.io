@@ -16,10 +16,10 @@ timezone:
 
 title: Hamidreza Souzangarzadeh # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Welcome to Hamidreza's Research Blog
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Discover the work of Hamidreza, a dedicated researcher with an M.Sc. in Mechanical Engineering and expertise in finite element analysis (FEA), decision science, engineering design, and optimization. With four published research papers and experience in machine learning, energy absorption, and multi-attribute decision-making, Hamidreza actively contributes to advancing engineering through research and journal reviews. Explore his journey as he seeks groundbreaking opportunities in Ph.D. programs and shares insights on additive manufacturing, Industry 4.0, crashworthiness, CAD/CAM/CAE, and more. Hamidreza is a mechanical engineering researcher specializing in FEA, optimization, and engineering design, with expertise in machine learning, MADM, and energy absorption. He shares his work, including published research and insights on advanced topics such as additive manufacturing, Industry 4.0, and crashworthiness, while inspiring the community with his passion for innovation and growth in engineering.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -38,11 +38,11 @@ social:
   email: hamid.reza.sou@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+ #   - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/hamidsouzangar # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+     - https://www.linkedin.com/in/hamid-souzangar-95b197195/
 
 # Site Verification Settings
 webmaster_verifications:
