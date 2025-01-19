@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![My Image](https://github.com/hamidsouzangar/hamidsouzangar.github.io/blob/main/_tabs/about.png)
+![My Image](assets/img/about.png)
 
 
 I am a researcher with an M.Sc. in Mechanical Engineering from Azad University and expertise in FEM, decision science, and engineering design. My research portfolio includes several published research papers on topics such as finite element analysis (FEA), crash box crushing experimental tests, operations research, multi-attribute decision-making (MADM), design of experiments (DoE), machine learning (regression), and optimization.  
