@@ -178,21 +178,23 @@ Research approximation strategies for paths followed by articulated robots.
 > Lettori, Jacopo, Roberto Raffaeli, Pietro Bilancia, Margherita Peruzzini, and Marcello Pellicciari. 2022. “A Review of Geometry Representation and Processing Methods for Cartesian and Multiaxial Robot-Based Additive Manufacturing.” International Journal of Advanced Manufacturing Technology 123 (11–12): 3767–94. https://doi.org/10.1007/s00170-022-10432-8.
 
 * * *
+https://github.com/hamidsouzangar/hamidsouzangar.github.io/blob/main/_posts/
+https://github.com/hamidsouzangar/hamidsouzangar.github.io/blob/main/_posts/_resources/a6d5e8ad0020c942cafce2ea096919e2.png
 
-![a6d5e8ad0020c942cafce2ea096919e2.png](../_resources/a6d5e8ad0020c942cafce2ea096919e2.png)
+![a6d5e8ad0020c942cafce2ea096919e2.png](https://github.com/hamidsouzangar/hamidsouzangar.github.io/blob/main/_posts/_resources/a6d5e8ad0020c942cafce2ea096919e2.png)
 
-![2c68a07a3c15538c576b3e02657e1522.png](../_resources/2c68a07a3c15538c576b3e02657e1522.png)
+![2c68a07a3c15538c576b3e02657e1522.png](https://github.com/hamidsouzangar/hamidsouzangar.github.io/blob/main/_posts/_resources/2c68a07a3c15538c576b3e02657e1522.png)
 
 > Xiao, Xinyi, and Sanjay Joshi. 2020. “Process Planning for Five-Axis Support Free Additive Manufacturing.” Additive Manufacturing 36 (September 2019): 101569. https://doi.org/10.1016/j.addma.2020.101569.
 
 * * *
 
-![9765c5886192bbf3f7d8138736b5e445.png](../_resources/9765c5886192bbf3f7d8138736b5e445.png)
+![9765c5886192bbf3f7d8138736b5e445.png](https://github.com/hamidsouzangar/hamidsouzangar.github.io/blob/main/_posts/_resources/9765c5886192bbf3f7d8138736b5e445.png)
 
-![373137b570fc810c4cee8330fbb12248.png](../_resources/373137b570fc810c4cee8330fbb12248.png)  
-![3e276f4068f8d530d02ad9d9d3acc1d2.png](../_resources/3e276f4068f8d530d02ad9d9d3acc1d2.png)
+![373137b570fc810c4cee8330fbb12248.png](https://github.com/hamidsouzangar/hamidsouzangar.github.io/blob/main/_posts/_resources/373137b570fc810c4cee8330fbb12248.png)  
+![3e276f4068f8d530d02ad9d9d3acc1d2.png](https://github.com/hamidsouzangar/hamidsouzangar.github.io/blob/main/_posts/_resources/3e276f4068f8d530d02ad9d9d3acc1d2.png)
 
-![aee8151356eefa3d54448646d144c92e.png](../_resources/aee8151356eefa3d54448646d144c92e.png)
+![aee8151356eefa3d54448646d144c92e.png](https://github.com/hamidsouzangar/hamidsouzangar.github.io/blob/main/_posts/_resources/aee8151356eefa3d54448646d144c92e.png)
 
 Five research questions have been formulated to perform the review work:
 
@@ -202,17 +204,17 @@ Five research questions have been formulated to perform the review work:
 4.  What are the types of slicing for RBAM?
 5.  What are the types of infill strategies for RBAM?
 
-![ca787548ffcba2b3fb983396ef24db15.png](../_resources/ca787548ffcba2b3fb983396ef24db15.png)
+![ca787548ffcba2b3fb983396ef24db15.png](https://github.com/hamidsouzangar/hamidsouzangar.github.io/blob/main/_posts/_resources/ca787548ffcba2b3fb983396ef24db15.png)
 
-![d0d1606c876bb26801f2e553a454d025.png](../_resources/d0d1606c876bb26801f2e553a454d025.png)
+![d0d1606c876bb26801f2e553a454d025.png](https://github.com/hamidsouzangar/hamidsouzangar.github.io/blob/main/_posts/_resources/d0d1606c876bb26801f2e553a454d025.png)
 
-![9260d1210105ac7d1dd3b133e86ae7ed.png](../_resources/9260d1210105ac7d1dd3b133e86ae7ed.png)
+![9260d1210105ac7d1dd3b133e86ae7ed.png](https://github.com/hamidsouzangar/hamidsouzangar.github.io/blob/main/_posts/_resources/9260d1210105ac7d1dd3b133e86ae7ed.png)
 
-![f4fbd2de71769a8dad357d7a61c69b30.png](../_resources/f4fbd2de71769a8dad357d7a61c69b30.png)
+![f4fbd2de71769a8dad357d7a61c69b30.png](https://github.com/hamidsouzangar/hamidsouzangar.github.io/blob/main/_posts/_resources/f4fbd2de71769a8dad357d7a61c69b30.png)
 
-![c3a919211188a833a866348b1762f529.png](../_resources/c3a919211188a833a866348b1762f529.png)
+![c3a919211188a833a866348b1762f529.png](https://github.com/hamidsouzangar/hamidsouzangar.github.io/blob/main/_posts/_resources/c3a919211188a833a866348b1762f529.png)
 
-![1add55c5d85408e3dad32aa7a8fa0e04.png](../_resources/1add55c5d85408e3dad32aa7a8fa0e04.png)
+![1add55c5d85408e3dad32aa7a8fa0e04.png](https://github.com/hamidsouzangar/hamidsouzangar.github.io/blob/main/_posts/_resources/1add55c5d85408e3dad32aa7a8fa0e04.png)
 
 > Lettori, Jacopo, Roberto Raffaeli, Pietro Bilancia, Margherita Peruzzini, and Marcello Pellicciari. 2022. “A Review of Geometry Representation and Processing Methods for Cartesian and Multiaxial Robot-Based Additive Manufacturing.” International Journal of Advanced Manufacturing Technology 123 (11–12): 3767–94. https://doi.org/10.1007/s00170-022-10432-8.
 
@@ -222,7 +224,7 @@ first step:
     
 explain the topic thoroghly
         1. a common workflow of printing:  
-            ![454e4cedecc13f65222090ad7e385582.png](../_resources/454e4cedecc13f65222090ad7e385582.png)
+            ![454e4cedecc13f65222090ad7e385582.png](https://github.com/hamidsouzangar/hamidsouzangar.github.io/blob/main/_posts/_resources/454e4cedecc13f65222090ad7e385582.png)
 1. CAD Model (STL, 3MF, ...)
 2. Part orientation/ Multiaxial deposition
 3. Slicing         
