@@ -4,6 +4,8 @@ professional portfolio and technical blog, hosted on GitHub Pages at the followi
 
 The site utilizes the Chirpy Jekyll theme for its architecture and design. Below you'll find the original README documentation from the base Chirpy theme repository that was forked to create this implementation. The repository was cloned and customized in accordance with the theme's installation guidelines to establish this web presence.
 
+
+## Chirpy Jekyll Theme
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
