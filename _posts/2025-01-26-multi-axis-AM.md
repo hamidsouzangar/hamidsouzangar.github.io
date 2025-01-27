@@ -8,7 +8,14 @@ tags: [3D-printing, Octave, MATLAB, G-code]
 ---
 # G-code-generator and Printing simulator of a 5-axis printer
 
+![gif](assets/img/octave-gui_kppVYGOOGi.gif)
 
+This project implements a simplified 5-axis slicing algorithm and generates G-code for a Cartesian FDM 3D printer with simulated `B-axis` (rotation around the Y-axis) capabilities. It's designed to allow printing of curved beams or similar geometries without the need for support structures. There are several solution to do so This code focus on solving the program based on `constant layers'` height method. 
+
+![Screenshot201632](https://github.com/user-attachments/assets/95ffe556-f8ff-4060-8a9c-9c90e08f55b3)
+
+
+## Project Overview
 <div style="border: 2px solid #ffd700; background: #fffbe6; border-radius: 8px; padding: 10px; margin: 10px 0;">
   <h4 style="margin: 0 0 10px 0; color: #ffd700; border-bottom: 2px solid #ffd700; padding-bottom: 5px;">
     💡 Note
@@ -17,13 +24,6 @@ tags: [3D-printing, Octave, MATLAB, G-code]
     The repository is available at the following link: <a href="https://github.com/hamidsouzangar/G-code-generator-for-a-5-axis-printer" target="_blank">https://github.com/hamidsouzangar/G-code-generator-for-a-5-axis-printer</a>
   </div>
 </div>
-
-![Screenshot201632](https://github.com/user-attachments/assets/95ffe556-f8ff-4060-8a9c-9c90e08f55b3)
-
-This project implements a simplified 5-axis slicing algorithm and generates G-code for a Cartesian FDM 3D printer with simulated `B-axis` (rotation around the Y-axis) capabilities. It's designed to allow printing of curved beams or similar geometries without the need for support structures. There are several solution to do so This code focus on solving the program based on `constant layers'` height method. 
-
-## Project Overview
-
 This code addresses the challenge of printing curved parts on a standard 3-axis FDM printer by simulating a 5-axis printing process. By rotating the printing plane during the print, the need for support structures can be eliminated for certain geometries. This project generates G-code that includes these rotational movements.
 ![image](https://github.com/user-attachments/assets/2fb1fb38-16f0-4dbf-99fc-1309ef098749)
 
