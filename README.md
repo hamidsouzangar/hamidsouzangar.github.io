@@ -1,4 +1,4 @@
-# WEbLog of Hamidreza Souzangarzadeh
+# WebLog of Hamidreza Souzangarzadeh
 
 professional portfolio and technical blog, hosted on GitHub Pages at the following URL: [https://hamidsouzangar.github.io](https://hamidsouzangar.github.io). The platform functions as an enhanced digital CV, designed to showcase practical projects, technical insights, and professional reflections. Unlike traditional career portfolios, the content emphasizes real-world applications and accessible knowledge sharing for general audiences rather than catering specifically to recruitment professionals.
 
