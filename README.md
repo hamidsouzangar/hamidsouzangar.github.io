@@ -1,4 +1,8 @@
-# Chirpy Starter
+# WEbLog of Hamidreza Souzangarzadeh
+
+professional portfolio and technical blog, hosted on GitHub Pages at the following URL: [https://hamidsouzangar.github.io](https://hamidsouzangar.github.io). The platform functions as an enhanced digital CV, designed to showcase practical projects, technical insights, and professional reflections. Unlike traditional career portfolios, the content emphasizes real-world applications and accessible knowledge sharing for general audiences rather than catering specifically to recruitment professionals.
+
+The site utilizes the Chirpy Jekyll theme for its architecture and design. Below you'll find the original README documentation from the base Chirpy theme repository that was forked to create this implementation. The repository was cloned and customized in accordance with the theme's installation guidelines to establish this web presence.
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
