@@ -38,7 +38,7 @@ social:
   email: hamid.reza.sou@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    #- https://twitter.com/username # change to your Twitter homepage
     - https://github.com/hamidsouzangar # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -98,7 +98,8 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://raw.githubusercontent.com/hamidsouzangar/hamidsouzangar.github.io/refs/heads/main/hamid4.jpg
+avatar: assets/img/hamid1.jpg
+#https://raw.githubusercontent.com/hamidsouzangar/hamidsouzangar.github.io/refs/heads/main/hamid4.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
